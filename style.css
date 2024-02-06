@@ -9,10 +9,18 @@ body{
     background-color: #fff;
     width: 500px;
     height: auto;  
+
+}
+
+.header{
+    padding-bottom: 6px;
 }
 
 .photo{
     overflow: hidden;
+    height: 413px;
+    margin-bottom: 15px;
+    
 }
 
 .flex-container{
@@ -24,7 +32,7 @@ body{
 } 
 
 .logo{
-    font-size: 25px;
+    font-size: 30px;
     margin: 10px;
     margin-top: 20px;
 }
@@ -63,6 +71,7 @@ p{
 }
  .like{
     margin: 5px;
+    margin-left: 20px;
 
  }
 
